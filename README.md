@@ -8,4 +8,4 @@ simple gradle app that says hello in different languages
 `gradlew test`
 
 # Run Application
-`java -jar build/libs/gradle-hello.jar`
+`java -jar build/libs/gradle-hello.jar en or es`
